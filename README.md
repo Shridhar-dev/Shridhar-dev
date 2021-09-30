@@ -15,7 +15,8 @@
 <h2> Hello there 
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
-- 🔭 I’m currently learning and making projects on web3 and blockchain technology
+- 🔭 I’m a frontend developer and freelancer
+- 🔭 Currently learning and making projects on web3 and blockchain technology
 - 🤝 I'm love to collaborate on Open source project
 - 👨‍💻 All of my projects are available at github.com/Shridhar-dev
 - 📫 How to reach me: <a href="mailto:shridharkamat10@gmail.com">shridharkamat10@gmail.com</a>
