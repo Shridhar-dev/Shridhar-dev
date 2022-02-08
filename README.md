@@ -1,4 +1,4 @@
-![Shridhar Kamat - Banner](https://ipfs.infura.io/ipfs/QmcDyoqrQZunofRjL1xHKrM9RdYAYzYBBWCh5Ev8toTMWk)
+![Shridhar Kamat - Banner](https://i.ibb.co/hLBZqZm/Untitled-design-12.png)
 
 
 
